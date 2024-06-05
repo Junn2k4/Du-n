@@ -1,0 +1,4 @@
+
+Mang sap xep tang dan la: 	3	3	4	5
+
+Mang sap xep giam dan la: 	5	4	3	3

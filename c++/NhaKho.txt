@@ -1,0 +1,15 @@
+Thong tin nha kho 1:
+Chieu dai: 5
+Chieu rong: 4
+Chieu cao: 2
+So ke hang: 4
+
+Thong tin nha kho 2:
+Chieu dai: 5
+Chieu rong: 3
+Chieu cao: 2
+So ke hang: 1
+
+Dien tich tren 1 ke hang cua nha kho 1: 5
+Dien tich tren 1 ke hang cua nha kho 2: 15
+Hai nha kho khong tuong duong nhau.

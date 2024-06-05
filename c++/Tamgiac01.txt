@@ -1,0 +1,17 @@
+CAC THONG TIN TAM GIAC a:Canh a= 1
+Canh b= 2
+Canh c= 3
+
+CAC THONG TIN TAM GIAC b:Canh a= 1
+Canh b= 2
+Canh c= 3
+
+Tong 2 tam giac: Canh a= 2
+Canh b= 4
+Canh c= 6
+
+Hieu 2 tam giac: Canh a= 0
+Canh b= 0
+Canh c= 0
+
+Hai tam giac bang nhau 
