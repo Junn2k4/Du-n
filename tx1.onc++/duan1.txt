@@ -1,0 +1,8 @@
+
+ Thong tin thoi gian c:
+2Gio 	3Phut 	4Giay=7384giay
+
+ Thong tin thoi gian d:
+4Gio 	2Phut 	5Giay=14525giay
+
+ Thoi gian chenh lech cua c va d :-7141giay

@@ -1,0 +1,53 @@
+
+ Thong tin hinh hop a:
+
+ Chieu dai:3
+
+ Chieu rong:4
+
+ Chieu cao:4
+
+
+ Thong tin hinh hop b:
+
+ Chieu dai:4
+
+ Chieu rong:5
+
+ Chieu cao:6
+
+
+ Thong tin hinh hop c:
+
+ Chieu dai:4
+
+ Chieu rong:3
+
+ Chieu cao:5
+
+
+ Thong tin hinh hop d:
+
+ Chieu dai:6
+
+ Chieu rong:4
+
+ Chieu cao:6
+
+
+ Cong hinh hop a va c:
+ Chieu dai:7
+
+ Chieu rong:7
+
+ Chieu cao:9
+
+
+ Tru hinh hop d va c:
+ Chieu dai:2
+
+ Chieu rong:1
+
+ Chieu cao:1
+
+2 Hinh khong co chieu rong va chieu dai bang nhau va chieu cao >0!

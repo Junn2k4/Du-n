@@ -1,0 +1,53 @@
+
+ Thong tin tam giac a:
+
+ Canh a:5
+
+ Canh b:3
+
+ Canh c:6
+
+
+ Thong tin tam giac b:
+
+ Canh a:5
+
+ Canh b:7
+
+ Canh c:8
+
+
+ Thong tin tam giac c:
+
+ Canh a:4
+
+ Canh b:5
+
+ Canh c:6
+
+
+ Thong tin tam giac d:
+
+ Canh a:5
+
+ Canh b:4
+
+ Canh c:3
+
+
+ Cong tam a va c:
+ Canh a:9
+
+ Canh b:8
+
+ Canh c:12
+
+
+ Tru tam d va c:
+ Canh a:9
+
+ Canh b:9
+
+ Canh c:9
+
+2 Hinh TAM GIAC khong bang nhau

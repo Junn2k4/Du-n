@@ -1,0 +1,23 @@
+
+ Nhap thong tin tam giac P 
+C1:1
+C2:2
+C3:3
+
+
+ Nhap thong tin tam giac Q 
+C1:1
+C2:2
+C3:3
+
+
+ Tong hai tam giac: C1:2
+C2:4
+C3:6
+
+
+ Hieu hai tam giac: C1:0
+C2:0
+C3:0
+
+2 tam giac bang nhau: 

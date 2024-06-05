@@ -1,0 +1,37 @@
+
+ THONG TIN TAM GIAC A
+
+ Canh a:5
+
+ Canh b:5
+
+ Canh c:5
+
+
+ THONG TIN TAM GIAC C
+
+ Canh a:4
+
+ Canh b:4
+
+ Canh c:3
+
+
+ CONG 2 TAM GIAC B va A:
+
+ Canh a:7
+
+ Canh b:9
+
+ Canh c:10
+
+
+ TRU 2 TAM GIAC B va C:
+
+ Canh a:-2
+
+ Canh b:0
+
+ Canh c:2
+
+2 tam giac khong co canh bang nhau va deu duong
